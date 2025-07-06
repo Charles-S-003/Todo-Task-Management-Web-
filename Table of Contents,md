@@ -1,0 +1,22 @@
+📋 Table of Contents
+
+Features
+Architecture
+Technology Stack
+Setup Instructions
+Project Structure
+API Documentation
+Assumptions
+AI Tools Used
+Screenshots
+
+✨ Features
+
+User Authentication: Secure login/registration system
+Task Management: Create, read, update, and delete tasks
+Task Categorization: Organize tasks with categories and priorities
+Real-time Updates: Instant task status updates
+Responsive Design: Works seamlessly on desktop and mobile devices
+User Dashboard: Personal task overview and statistics
+Search & Filter: Find tasks quickly with advanced filtering options
+Due Date Management: Set and track task deadlines
