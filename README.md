@@ -99,8 +99,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Your Charles
 
 GitHub: github.com/Charles-S
-LinkedIn: linkedin.com/charles
-Email: charlecharle070@gmail.com
+-----LinkedIn: linkedin.com/charles
+-----Email: charlecharle070@gmail.com
 
 🙏 Acknowledgments
 --------------------
