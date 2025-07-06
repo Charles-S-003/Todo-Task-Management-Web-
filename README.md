@@ -6,48 +6,11 @@ Frontend: https://todo-task-management-web.vercel.app/login
 Backend API: https://todo-task-management-web.vercel.app/login
 Demo Video: https://www.loom.com/share/ce1dab87f33047beb407bb26d44e51ad?sid=115399b1-9a17-4952-89c3-5e45dbbca110
 
+-----------------------------------------------------
 
-
-
-📁 Project Structure
-------------------------
-todo-task-management-web/
-├── frontend/
-│   ├── components/
-│   │   ├── Auth/
-│   │   ├── Dashboard/
-│   │   ├── Tasks/
-│   │   └── Common/
-│   ├── pages/
-│   │   ├── login/
-│   │   ├── dashboard/
-│   │   └── tasks/
-│   ├── styles/
-│   ├── utils/
-│   └── hooks/
-├── backend/
-│   ├── controllers/
-│   │   ├── authController.js
-│   │   ├── taskController.js
-│   │   └── userController.js
-│   ├── models/
-│   │   ├── User.js
-│   │   ├── Task.js
-│   │   └── Category.js
-│   ├── routes/
-│   │   ├── auth.js
-│   │   ├── tasks.js
-│   │   └── users.js
-│   ├── middleware/
-│   │   ├── auth.js
-│   │   └── validation.js
-│   └── utils/
-├── docs/
-│   └── architecture-diagram.png
-└── README.md
 📡 API Documentation
 Authentication Endpoints
-
+-----------------------------
 POST /api/auth/register - User registration
 POST /api/auth/login - User login
 POST /api/auth/logout - User logout
