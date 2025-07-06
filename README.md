@@ -17,7 +17,7 @@ POST /api/auth/logout - User logout
 GET /api/auth/me - Get current user
 
 Task Management Endpoints
-
+-----------------------------
 GET /api/tasks - Get all tasks for user
 POST /api/tasks - Create new task
 GET /api/tasks/:id - Get specific task
@@ -25,7 +25,7 @@ PUT /api/tasks/:id - Update task
 DELETE /api/tasks/:id - Delete task
 
 User Management Endpoints
-
+----------------------------
 GET /api/users/profile - Get user profile
 PUT /api/users/profile - Update user profile
 
@@ -92,16 +92,18 @@ Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 
 📝 License
+-----------
 This project is licensed under the MIT License - see the LICENSE file for details.
 👨‍💻 Author
-Your Name
+----------
+Your Charles
 
-GitHub: @yourusername
-LinkedIn: Your LinkedIn
-Email: your.email@example.com
+GitHub: github.com/Charles-S
+LinkedIn: linkedin.com/charles
+Email: charlecharle070@gmail.com
 
 🙏 Acknowledgments
-
+--------------------
 Thanks to the open-source community for the amazing tools and libraries
 Special thanks to the hackathon organizers for the opportunity
 Inspiration from modern task management applications
