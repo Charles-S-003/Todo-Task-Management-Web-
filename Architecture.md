@@ -11,6 +11,8 @@
 │   (Frontend     │    │   (Backend      │    │   Database      │
 │   Hosting)      │    │   Hosting)      │    │   Service)      │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
+
+
 Architecture Components
 
 Frontend Layer
