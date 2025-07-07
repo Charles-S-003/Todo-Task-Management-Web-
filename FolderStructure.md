@@ -1,25 +1,19 @@
 📁 Project Structure
 ------------------------------
+
 todo-task-management-web/
 ├── frontend/
 │   ├── components/
-│   │   ├── Auth/
-│   │   ├── Dashboard/
-│   │   ├── Tasks/
-│   │   └── Common/
 │   ├── pages/
 │   │   ├── login/
 │   │   ├── dashboard/
-│   │   └── tasks/
+│   ├── Tasks/
+│   ├── Auth/
+│   ├── Dashboard/
+│   ├── Common/
 │   ├── styles/
 │   ├── utils/
-│   └── hooks/
-
-
-
-
-
----------------------
+│   ├── hooks/
 ├── backend/
 │   ├── controllers/
 │   │   ├── authController.js
@@ -34,9 +28,8 @@ todo-task-management-web/
 │   │   ├── tasks.js
 │   │   └── users.js
 │   ├── middleware/
-│   │   ├── auth.js
-│   │   └── validation.js
-│   └── utils/
+│   ├── utils/
+│   ├── validation.js
 ├── docs/
 │   └── architecture-diagram.png
-└── README.md
+├── README.md
