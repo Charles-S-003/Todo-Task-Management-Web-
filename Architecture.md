@@ -1,3 +1,6 @@
+Note : Change it code,if visit preview allignment were missed
+
+
 ┌─────────────────┐    ┌─────────────────┐    ┌────────────────────┐
 │   Frontend      │    │   Backend       │    │     Database       │
 │ (React/Next.js) │◄──►│ (Node.js/       │◄──►│ (MongoDB/          │
